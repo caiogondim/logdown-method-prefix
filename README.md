@@ -10,9 +10,9 @@ npm install --save logdown-print-method-name
 
 ```js
 const logdown = require('logdown')
-const printMethodPrefix = require('logdown-print-method-name')
+const printMethodName = require('logdown-print-method-name')
 
-const logger = printMethodPrefix(logdown('foo'))
+const logger = printMethodName(logdown('foo'))
 
 logger.log('lorem')
 logger.warn('lorem')
