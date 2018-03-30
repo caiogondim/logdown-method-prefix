@@ -1,0 +1,23 @@
+{
+  "name": "logdown-print-method-name",
+  "version": "1.0.0",
+  "description": "Print used logdown method name along with message",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/logdown-method-name.git"
+  },
+  "keywords": ["logdown"],
+  "author": "Caio Gondim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiogondim/logdown-print-method-name/issues"
+  },
+  "homepage": "https://github.com/caiogondim/logdown-print-method-name#readme",
+  "devDependencies": {
+    "logdown": "3.2.3"
+  }
+}
